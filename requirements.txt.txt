@@ -1,0 +1,5 @@
+termcolor==2.2.0
+pyfiglet==0.8.post1
+python-time==0.3.0
+stdiomask==0.0.6
+os-sys==2.1.4
